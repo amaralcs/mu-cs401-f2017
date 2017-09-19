@@ -1,9 +1,9 @@
-#CS401 Lecture Two
-######scribe - Deirdre Hegarty
+# CS401 Lecture Two
+###### scribe - Deirdre Hegarty
 
 ---
 
-###The Brain Vs Computational Devices
+### The Brain Vs Computational Devices
 
 ---
 
@@ -12,7 +12,7 @@ A lot of algorithms have been inspired by biological neural networks.
 
 ---
 
-###About the Brain
+### About the Brain
 
 ---
 
@@ -25,7 +25,7 @@ He took computers and organisms & put them on the same scale. Hans tried to norm
 
 ---
 
-###How to make a computer with ...
+### How to make a computer with ...
 
 ---
 
@@ -59,7 +59,7 @@ When an axon gets thick enough it will grow a **node of Ranvier**.
 
 ---
 
-###Brainbow
+### Brainbow
 
 ---
 
