@@ -24,9 +24,9 @@ We will be reading classical papers in the area.
 
 * Machine Learning:
 
-* "Some Studies in Machine Learning Using the Game of Checkers". IBM Journal of Research and Development 44(1.2), 1959, doi:10.1147/rd.441.0206 URL http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5389202
-
-* Checkers, Arthur Samuel, https://en.wikipedia.org/wiki/Arthur_Samuel
+* Checkers, Arthur Samuel, https://en.wikipedia.org/wiki/Arthur_Samuel,
+  "Some Studies in Machine Learning Using the Game of Checkers". IBM Journal of Research and Development 44(1.2), 1959, doi:10.1147/rd.441.0206 URL http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5389202
+  see http://golconda.cs.nuim.ie/~barak/readings/Samuel-Checkers-1959a.pdf
 
 * Artificial neurons:
 
