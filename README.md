@@ -31,6 +31,7 @@ We will be reading classical papers in the area.
 * Artificial neurons:
 
   "A logical calculus of the ideas immanent in nervous activity", Warren S. McCulloch, Walter Pitts, The bulletin of mathematical biophysics 5(4):115-33, 1943, doi:10.1007/BF02478259
+  http://golconda.cs.nuim.ie/~barak/readings/Mcculloch-logical-nervous-1943a.pdf
 
 * Perceptron:
 
