@@ -22,6 +22,29 @@ Classic Papers Approach
 
 We will be reading classical papers in the area.
 
+* Machine Learning:
+
+* "Some Studies in Machine Learning Using the Game of Checkers". IBM Journal of Research and Development 44(1.2), 1959, doi:10.1147/rd.441.0206 URL http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5389202
+
+* Checkers, Arthur Samuel, https://en.wikipedia.org/wiki/Arthur_Samuel
+
+* Artificial neurons:
+
+  "A logical calculus of the ideas immanent in nervous activity", Warren S. McCulloch, Walter Pitts, The bulletin of mathematical biophysics 5(4):115-33, 1943, doi:10.1007/BF02478259
+
+* Perceptron:
+
+  Rosenblatt
+  
+* WINNOW
+
+* Backpropagation:
+
+  "Learning representations by back-propagating errors", David E. Rumelhart, Geoffrey E. Hinton, and Ronald J. Williams, Nature 323:533-6, 1986, doi:10.1038/323533a0
+  URL http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf
+
+* PAPnet
+
 Useful Materials
 ----------------
 
