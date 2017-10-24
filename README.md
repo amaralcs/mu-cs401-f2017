@@ -45,8 +45,16 @@ We will be reading classical papers in the area.
   URL http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf
 
 * PAPnet
+
+  "PAPNET™: an automated cytology screener using image processing and neural networks"
+  Luck, et al,
+  Workshop "Computer Vision Applications: Meeting the Challenges"
+  at the 20th AIPR Workshop, 1991, McLean, VA, United States
+  doi:10.1117/12.58066
+
   PAPNET™ Cytological Screening System
   https://academic.oup.com/labmed/article-pdf/22/4/276/8326353/labmed22-0276.pdf
+  
   "Neural network processing can provide means to catch errors that slip through human screening of pap smears."
   Boon and Kok, Diagn Cytopathol. 9(4):411-6, 1993.
 
