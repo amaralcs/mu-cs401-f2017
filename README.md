@@ -50,6 +50,36 @@ We will be reading classical papers in the area.
   "Neural network processing can provide means to catch errors that slip through human screening of pap smears."
   Boon and Kok, Diagn Cytopathol. 9(4):411-6, 1993.
 
+* "ALVINN, an autonomous land vehicle in a neural network",
+  Dean A. Pomerleau, 1989,
+  http://repository.cmu.edu/cgi/viewcontent.cgi?article=2874&context=compsci
+  Modern retrospective:
+  https://www.theverge.com/2016/11/27/13752344/alvinn-self-driving-car-1989-cmu-navlab
+
+* Convolutional Networks:
+
+  1D
+
+  Kevin J. Lang, et al, TDNNs
+  "A time-delay neural network architecture for isolated word recognition"
+  Kevin J. Lang, Alex H.Waibel, Geoffrey E.Hinton,
+  Neural Networks 3:23-43, 1990
+  URL http://www.cs.toronto.edu/~hinton/absps/langTDNN.pdf
+
+  2D
+
+  LeNet
+  "Gradient-Based Learning Applied to Document Recognition", Yann LeCun, et al,
+  http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
+  Modern reprise:
+  https://www.pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/
+
+* Deep Learning
+
+  "Deep Learning", Nature, 28 May 2015,
+  Yann Le Cun, Yoshua Bengio, and Geoffrey Hinton.
+  http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
+
 Useful Materials
 ----------------
 
