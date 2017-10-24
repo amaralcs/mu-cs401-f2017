@@ -45,6 +45,10 @@ We will be reading classical papers in the area.
   URL http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf
 
 * PAPnet
+  PAPNET™ Cytological Screening System
+  https://academic.oup.com/labmed/article-pdf/22/4/276/8326353/labmed22-0276.pdf
+  "Neural network processing can provide means to catch errors that slip through human screening of pap smears."
+  Boon and Kok, Diagn Cytopathol. 9(4):411-6, 1993.
 
 Useful Materials
 ----------------
