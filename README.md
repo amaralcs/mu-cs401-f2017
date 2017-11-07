@@ -98,3 +98,4 @@ Useful Materials
 * Nice demos of various optimization techniques:
   http://www.benfrederickson.com/numerical-optimization/
 * Nice deep learning tutorial: http://course.fast.ai/
+* k-means demo (batch) http://stanford.edu/class/ee103/visualizations/kmeans/kmeans.html
