@@ -99,3 +99,4 @@ Useful Materials
   http://www.benfrederickson.com/numerical-optimization/
 * Nice deep learning tutorial: http://course.fast.ai/
 * k-means demo (batch) http://stanford.edu/class/ee103/visualizations/kmeans/kmeans.html
+  with smiley face https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
